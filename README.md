@@ -6,4 +6,4 @@ This library will read chart information from a Malody .mc file, and convert it 
 
 ## Warning
 
-This program is involved with AI code.
+This program involves AI-generated code.
